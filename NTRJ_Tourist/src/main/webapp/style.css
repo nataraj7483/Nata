@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+*{
+	padding: 0;
+	marging: 0;
+	font-family: sans-serif;
+}
+
+body{
+	background: url('./C:\Users\Nataraj S\Pictures\durga.jpg');
+	background-size: cover;
+	color: #fff;
+}
+.register-form{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: Translate(-50%, -50%);
+}
